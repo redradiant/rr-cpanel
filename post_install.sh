@@ -1,8 +1,5 @@
 #!/bin/bash
 
-set -o errtrace
-set -o errexit
-
 yes | echo -e "\n" | ssh-keygen -N '' -t rsa
 
 yum -y install curl
