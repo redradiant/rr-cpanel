@@ -1,0 +1,16 @@
+mrepo
+yum-utils
+httpd-devel
+openssl-devel
+zlib-devel
+gcc 
+gcc-c++ 
+curl-devel 
+expat-devel 
+gettext-devel 
+mysql-server 
+mysql-devel
+postgresql84.x86_64
+postgresql84-devel.x86_64
+postgresql84-libs.x86_64
+postgresql84-server.x86_64
